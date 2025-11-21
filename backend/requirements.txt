@@ -1,0 +1,11 @@
+livekit-agents
+python-dotenv
+livekit-api
+flask[async]
+flask
+faiss-cpu
+sentence-transformers
+livekit-plugins-silero
+numpy==
+flask-cors
+uvicorn
