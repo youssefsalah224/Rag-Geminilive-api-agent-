@@ -14,14 +14,14 @@ A real-time voice AI agent that combines LiveKit's audio streaming infrastructur
 
 ## Architecture
 
-### Frontend (React + TypeScript)
+### Frontend (React + vite )
 
 - **LiveKit Client SDK** - WebRTC audio streaming
 - **React Components** - Voice control center, live transcripts, context panels
 - **Vite** - Responsive, accessible design
 - **Custom Animations** - Pulsing rings for voice states
 
-### Backend (Node.js + Express)
+### Backend (Node.js )
 
 - **Token Generation** - Secure access token creation and matching it to the front
 - **Session Management** - Track conversations and context
@@ -222,3 +222,4 @@ python agent.py dev
 - **LiveKit Agents**: https://docs.livekit.io/agents/
 - **FAISS**: https://github.com/facebookresearch/faiss
 - **Sentence Transformers**: https://www.sbert.net/
+
