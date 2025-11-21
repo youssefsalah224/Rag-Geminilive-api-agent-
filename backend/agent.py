@@ -144,7 +144,6 @@ async def entrypoint(ctx: agents.JobContext):
         )
         
         print(f"[Success] Voice agent is now active and listening!")
-        print(f"{'='*80}\n")
         
     except Exception as e:
         print(f"[ERROR] Failed to initialize agent: {e}")
@@ -165,4 +164,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
