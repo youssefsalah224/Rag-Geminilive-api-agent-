@@ -55,6 +55,7 @@ Secrets you should have :
 ### 2. Install Dependencies
 
 #### Frontend & Backend (Node.js)
+you need to built the node.js and vite to the frontend filr 
 
 ```bash
 npm install
@@ -222,4 +223,5 @@ python agent.py dev
 - **LiveKit Agents**: https://docs.livekit.io/agents/
 - **FAISS**: https://github.com/facebookresearch/faiss
 - **Sentence Transformers**: https://www.sbert.net/
+
 
